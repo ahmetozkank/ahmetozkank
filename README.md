@@ -14,7 +14,9 @@
 - 👨‍💻 I enjoy building **modern websites** with clean UI/UX  
 - 💼 Passionate about **full-stack web development**  
 - 💬 Focused on delivering quality solutions with `PHP`, `HTML`, `CSS`, and `JavaScript`. Reach out anytime!  
-- 📫 You can reach me at: **ozknklkz@gmail.com**  
+
+- 📫 You can reach me at: [ozknklkz@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ozknklkz@gmail.com)
+
 - ⚡ Fun Fact: *I try to learn something new with every project.*
 
 ---
@@ -23,7 +25,7 @@
 - 👨‍💻 Temiz ve modern arayüze sahip **web siteleri geliştirmeyi seviyorum**  
 - 💼 **Full-stack web geliştirme** alanında tutkuluyum  
 - 💬 `PHP`, `HTML`, `CSS`, ve `JavaScript` ile kaliteli çözümler sunmaya odaklıyım. İstediğiniz zaman ulaşabilirsiniz!  
-- 📫 Bana ulaşmak için: **ozknklkz@gmail.com**  
+- 📫 Bana ulaşmak için: [ozknklkz@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ozknklkz@gmail.com) 
 - ⚡ İlginç bir not: *Her projede kendime yeni bir şeyler öğrenme hedefi koyarım.*
 
 ---
@@ -50,8 +52,12 @@
 ### 📫 Let's Connect / İletişim
 
 <p align="center">
-  <a href="mailto:ozknklkz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ahmet-özkan-kulaksız-337054285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ozknklkz@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmet-özkan-kulaksız-337054285/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
