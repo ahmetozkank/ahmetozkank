@@ -38,8 +38,3 @@
 
 > *"Every great developer you know got there by solving problems they were unqualified to solve — until they actually did it."*  
 > — Patrick McKenzie
-
-> *"Tanıdığınız her iyi geliştirici, başta kendini yetersiz hissettiği problemleri çözerek o noktaya geldi."*  
-> — Patrick McKenzie
-
----
