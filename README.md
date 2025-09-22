@@ -1,14 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmet Özkan Kulaksız</h1>
-<h3 align="center">Web Developer | Frontend & Backend Enthusiast</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&width=435&lines=Frontend+%2F+Backend+Developer;HTML%2C+CSS%2C+JS+%2B+PHP;Currently+learning+React.js;Let's+Build+Something+Cool!" alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 About Me / Hakkımda
+### 🚀 About Me
 
 - 🌱 I’m currently learning **React.js**  
 - 👨‍💻 I enjoy building **modern websites** with clean UI/UX  
@@ -19,18 +9,10 @@
 
 - ⚡ Fun Fact: *I try to learn something new with every project.*
 
----
 
-- 🌱 Şu anda **React.js** öğreniyorum  
-- 👨‍💻 Temiz ve modern arayüze sahip **web siteleri geliştirmeyi seviyorum**  
-- 💼 **Full-stack web geliştirme** alanında tutkuluyum  
-- 💬 `PHP`, `HTML`, `CSS`, ve `JavaScript` ile kaliteli çözümler sunmaya odaklıyım. İstediğiniz zaman ulaşabilirsiniz!  
-- 📫 Bana ulaşmak için: [ozknklkz@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ozknklkz@gmail.com) 
-- ⚡ İlginç bir not: *Her projede kendime yeni bir şeyler öğrenme hedefi koyarım.*
 
----
 
-### 🛠️ Tech Stack / Kullandığım Teknolojiler
+### Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,react,vscode,github" />
@@ -38,16 +20,6 @@
 
 ---
 
-### 🚀 Featured Projects / Öne Çıkan Projeler
-
-| Project / Proje        | Description / Açıklama                                | Live Link / Canlı Link                   |
-|-----------------------|------------------------------------------------------|-----------------------------------------|
-| 🐾 **Pattigo**         | User-friendly platform for posting and browsing pet listings. | [pattigo.rf.gd](https://pattigo.rf.gd) |
-|                       | Evcil hayvan ilanları için kullanıcı dostu platform. |                                         |
-| 📸 **Zade Fotograf**   | Modern portfolio website showcasing photography work. | [zadefotograf.com](https://zadefotograf.com) |
-|                       | Profesyonel fotoğraf portfolyosu sitesi.             |                                         |
-
----
 
 ### 📫 Let's Connect / İletişim
 
